@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "engine": "4.5.1",
-  "content_version": 24,
-  "content_url": "https://elijah05050602.github.io/grave-garden-builds/packs/content_24.pck",
-  "content_sha256": "fc3252456d6bdb1f7be4b14fdc8b4f786fd569e4ad74d392eebbab98afbce549",
-  "content_size": 23479544,
+  "content_version": 25,
+  "content_url": "https://elijah05050602.github.io/grave-garden-builds/packs/content_25.pck",
+  "content_sha256": "4fe5bf7b2805462cd3cca9375e97afe9877b9a10dd835f2d21c492dc720d3204",
+  "content_size": 23507040,
   "content_min_apk": 1,
   "latest_apk_version": 1,
   "min_apk_version": 1,
   "version_name": "0.1.0",
   "apk_url": "https://github.com/elijah05050602/grave-garden-builds/releases/download/apk-v1/grave-garden.apk",
   "web_url": "https://elijah05050602.github.io/grave-garden-builds/play/",
-  "commit": "ee563993bdc150d45c53b0c2af2ae5f51108f230",
-  "published_at": "2026-11-20T21:36:59Z"
+  "commit": "6957e16865f6d97f52f0ecbc9b7b659618fbb2e8",
+  "published_at": "2026-11-23T10:52:37Z"
 }
